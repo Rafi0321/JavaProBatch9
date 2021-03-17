@@ -6,7 +6,7 @@ public class SecondCommmit {
 	 hurra!!!!!!!!!!!!!!
 	 
 	 System.out.println("Why coding is good to do")
-	 System.out.println("It is new code for git and we change it")
+	 System.out.println("We just changed it, and you can see the difference")
  }
 
 }
